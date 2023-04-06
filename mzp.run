@@ -1,0 +1,4 @@
+name "LazySave"
+extract to "$temp\LazySave"
+drop "install.ms"
+run "install.ms"
